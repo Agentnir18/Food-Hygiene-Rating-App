@@ -1,6 +1,6 @@
 # Food Hygiene Rating App
 
-Welcome to the Food Hygiene Rating App! This app is designed to help users easily find and view hygiene ratings for food establishments. Built using Expo, this app is available on both iOS and Android devices.
+This app is designed to help users easily find and view hygiene ratings for food establishments in the UK. Built using Expo 50, this app is available on both iOS and Android devices.
 
 ## Features
 
@@ -34,11 +34,15 @@ To run this app locally, follow these steps:
    ```sh
    npx expo start
    ```
+> [!NOTE]
+> This app supports Expo SDK 50 or 49 and works only on mobile
 
    This will start the Expo development server. You can then use the Expo Go app on your mobile device to scan the QR code and load the app.
 
 ## Screenshots
 
+<img src="https://github.com/Agentnir18/Food-Hygiene-Rating-App/blob/9bde4ffd7e8e6f7ac650fb059b6bebac07542995/images/fhrs%20image.jpeg" alt="fhrs image 1" width="300"/>
+<img src="https://github.com/Agentnir18/Food-Hygiene-Rating-App/blob/9bde4ffd7e8e6f7ac650fb059b6bebac07542995/images/fhrs%20image%202.jpg" alt="fhrs image 2" width="300"/>
 
 
 ## Contributing
